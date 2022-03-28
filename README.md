@@ -1,6 +1,6 @@
 
 ### Hey there &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align='right' class="circle" src="https://d3n32ilufxuvd1.cloudfront.net/587a70c1f8d54701ea5a099f/786924/upload-19db8d70-735a-11e8-9cc4-75c68550e87e.gif" width="230" />
+<img align='right' src="https://github.com/Honda02/Honda02/blob/main/img.gif" width="230" />
 
 I'm Antonio, a 23 years old software developer from Italy.
 
