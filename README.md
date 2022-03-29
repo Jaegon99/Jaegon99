@@ -3,14 +3,12 @@
 
 </br>
 
-<div>
+<img align='right' src="https://github.com/Honda02/Honda02/blob/main/img.gif" width="350" />
   <div align='left'>
     I'm a software developer from Italy.</br>
     Currently working on some of my side projects based on Web Development and Machine Learning.</br>
     I'm currently looking for opportunities to contribute in an open source project.</br>
   </div>
-  <img align='right' src="https://github.com/Honda02/Honda02/blob/main/img.gif" width="350" />
-</div>
 
 </br>
 
