@@ -7,7 +7,7 @@
 
   <div align='left'>
     I'm a software developer from Italy.</br>
-    Currently working on some of my side projects based on Mobile Development and ML.</br>
+    Currently working on some of my side projects based on Mobile Development/ML.</br>
     I'm currently looking for opportunities to contribute in an open source project.</br>
   </div>
 
