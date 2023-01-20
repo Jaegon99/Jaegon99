@@ -7,8 +7,8 @@
 
   <div align='left'>
     I'm a software developer from Italy.</br>
-    Currently working on some of my side projects based on Mobile Development/ML.</br>
-    I'm currently looking for opportunities to contribute in an open source project.</br>
+    I currently work for Open Reply while studying for a master's degree in CS at the University of Milan.</br>
+    I am interested in learning more about mobile development and machine learning and looking for opportunities to contribute to an open-source project.
   </div>
 
 </br>
