@@ -15,4 +15,4 @@
 </br>
 </br>
 
-[![Linkedin: Antonio](https://img.shields.io/badge/-Antonio%20Leonetti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anto-leonetti/)](https://www.linkedin.com/in/anto-leonetti/)
+[![Linkedin: Antonio](https://img.shields.io/badge/-Antonio%20Leonetti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-leonetti/)](https://www.linkedin.com/in/a-leonetti/)
