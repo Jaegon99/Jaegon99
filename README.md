@@ -7,8 +7,8 @@
 
   <div align='left'>
    I'm a software developer and competitive programming enthusiast from Italy. 
-   I currently work at Open Reply and I am studying for an MSc in Computer Science at the University of Milan.  
-   My goals, for now, include delving into mobile development, machine learning and finding interesting opportunities to contribute to open-source projects.
+   I currently work at Pirelli and I'm studying for an MSc in Computer Science at the University of Milan.  
+   My goals, for now, include delving into mobile development, and machine learning and finding interesting opportunities to contribute to open-source projects.
   </div>
 
 </br>
