@@ -6,9 +6,12 @@
 
 
   <div align='left'>
-   I'm a software developer and competitive programming enthusiast from Italy. 
-   I currently work at Pirelli and I'm studying for an MSc in Computer Science at the University of Milan.  
-   My goals, for now, include delving into mobile development, and machine learning and finding interesting opportunities to contribute to open-source projects.
+   I'm a Software Engineer based in Italy with nearly five years of experience building cloud-native backend systems, distributed services, and developer platforms. I currently work at Pirelli, where I focus on backend architecture, CI/CD workflows, cloud infrastructure across AWS and GCP, and AI integration projects, including the development of AI agents and orchestration systems.
+  
+  I recently graduated with an MSc in Computer Science with honors, where my research focused on graph algorithms and structural equivalence in complex networks.
+  
+  I'm passionate about system design, distributed systems, platform engineering, and building tools that improve developer experience. I'm always interested in learning new technologies, contributing to open-source projects, and tackling challenging engineering problems.
+
   </div>
 
 </br>
